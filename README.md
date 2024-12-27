@@ -1,9 +1,11 @@
 # PironmanPi5
-Project Overview: Real-Time Network Traffic Analyzer
-Goal: Monitor network activity, including device usage, web searches, visited websites, streaming time, and content analysis.
+# Project Overview: 
+Real-Time Network Traffic Analyzer
+# Goal: 
+Monitor network activity, including device usage, web searches, visited websites, streaming time, and content analysis.
 
-Core Components & Tools
-Network Sniffing & Traffic Analysis Tools:
+# Core Components & Tools
+# Network Sniffing & Traffic Analysis Tools:
 
 Pi-hole: For DNS-level ad-blocking and tracking web domains queried.
 ntopng: A network monitoring tool with detailed traffic insights.
