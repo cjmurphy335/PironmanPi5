@@ -58,3 +58,8 @@ Advanced Features to Add:
 Parental Controls: Block certain sites or set screen time limits.
 AI-Powered Analysis: Use AI models to detect potentially harmful or concerning usage patterns.
 Streaming Content Analysis: Scrape public streaming service APIs to analyze viewing history if such features are open.
+
+https://www.sunfounder.com/products/pironman-5-nvme-m-2-ssd-pcie-mini-pc-case-for-raspberry-pi-5?variant=45654310584555
+https://magpi.raspberrypi.com/articles/pironman-5-case-review?mc_cid
+https://itsfoss.com/pironman-5-review/
+https://www.cnx-software.com/2024/07/28/pironman-5-review-mini-pc-case-for-the-raspberry-pi-5-sbc/
